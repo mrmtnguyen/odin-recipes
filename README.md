@@ -1,2 +1,4 @@
 # odin-recipes
-basic recipe website
+Learn how to set up a basic recipe website
+
+
